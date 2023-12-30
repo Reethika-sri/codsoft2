@@ -42,4 +42,4 @@ Contribute by opening issues or creating pull requests. Your feedback and improv
 
 # License:
 Open Source:
-This project is licensed under the password. See LICENSE.md for details.
+This project is licensed under the CodSoft. See LICENSE.md for details.
